@@ -53,4 +53,4 @@ section below for the planned fix.
 - Scale the recommender with a vector database (e.g. FAISS) for larger FAQ sets
 
 ## Live Demo
-
+https://aisupportassistant-2iybcoq5rvv47dehx5qjmr.streamlit.app/
