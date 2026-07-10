@@ -1,0 +1,6 @@
+streamlit
+transformers>=4.46,<5.0
+torch
+scikit-learn
+pandas
+sentencepiece

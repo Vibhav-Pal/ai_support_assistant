@@ -1,0 +1,16 @@
+id,question,answer
+1,How do I reset my password,Go to settings > account > reset password and follow the email link
+2,Why is my video call lagging,Check your internet speed; lag usually means bandwidth below 2mbps
+3,How do I cancel my subscription,Go to billing settings and click cancel plan
+4,App crashes on startup,Try clearing cache or reinstalling the latest app version
+5,How to enable dark mode,Go to settings > display > toggle dark mode
+6,How do I add a payment method,Navigate to billing > payment methods > add new card
+7,Video call has no audio,Check microphone permissions in your device settings
+8,How to invite team members,Go to workspace settings > members > send invite
+9,App is very slow,Try restarting the app or checking for background processes
+10,How to upgrade my plan,Go to billing > plans > select upgrade
+11,How do I enable notifications,Go to settings > notifications > toggle push alerts on
+12,Screen sharing is not working,Make sure screen recording permission is enabled in your OS settings
+13,How to change my email address,Go to account settings > update email > verify with OTP
+14,Chat messages are not sending,Check your internet connection or restart the app
+15,How to delete my account,Go to settings > account > delete account and confirm via email
